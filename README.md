@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-05-02 110227](https://github.com/user-attachments/assets/3bda0be5-6279-4911-a5c5-cd1c65a4a899)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE:2/05/2025 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -44,7 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading Screenshot 2025-05-02 110227.png…]()
+![ex6](https://github.com/user-attachments/assets/cf262a9b-11e8-4d91-ab05-afb38a2a4cd1)
+
+
+
 
 ### Name:SANJANA K L
 ### Register Number:212224230241
